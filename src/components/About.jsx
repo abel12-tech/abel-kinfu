@@ -95,7 +95,7 @@ const About = () => {
               </p>
               <p className="text-base sm:text-lg lg:text-xl text-gray-300 leading-relaxed mb-4 sm:mb-6">
                 My expertise spans from crafting responsive frontends with{" "}
-                <span className="text-purple-400 font-semibold">React.js and Tailwind CSS</span>
+                <span className="text-purple-400 font-semibold">React.js and Tailwind CSS{" "}</span>
                 to building robust backends with{" "}
                 <span className="text-green-400 font-semibold">Node.js, Express.js, and MongoDB</span>. I also create
                 intuitive mobile experiences using{" "}
